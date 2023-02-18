@@ -1,1 +1,4 @@
+Nama : Zul Ham Fahlevi
+Asal : Jakarta
+
 saya sedang belajar menggunakan git merge
